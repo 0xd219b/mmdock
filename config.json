@@ -1,0 +1,52 @@
+{
+  "shortcuts": [
+    {
+      "id": "terminal",
+      "title": "Terminal",
+      "icon": "💻",
+      "type": "application",
+      "command": "Terminal",
+      "enabled": true
+    },
+    {
+      "id": "browser",
+      "title": "Chrome",
+      "icon": "🌐",
+      "type": "application",
+      "command": "Google Chrome",
+      "enabled": true
+    },
+    {
+      "id": "code",
+      "title": "VS Code",
+      "icon": "⚙️",
+      "type": "application",
+      "command": "Visual Studio Code",
+      "enabled": true
+    },
+    {
+      "id": "screenshot",
+      "title": "Screenshot",
+      "icon": "📸",
+      "type": "script",
+      "command": "screencapture -i ~/Desktop/screenshot.png",
+      "enabled": true
+    },
+    {
+      "id": "downloads",
+      "title": "Downloads",
+      "icon": "⬇️",
+      "type": "script",
+      "command": "open ~/Downloads",
+      "enabled": true
+    },
+    {
+      "id": "1752412811318",
+      "title": "1111",
+      "icon": "🔧",
+      "type": "script",
+      "command": "echo \"11111\"",
+      "enabled": true
+    }
+  ]
+}
